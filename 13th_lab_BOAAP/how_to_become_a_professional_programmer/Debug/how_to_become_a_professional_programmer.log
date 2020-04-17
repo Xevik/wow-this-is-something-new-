@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (how_to_become_a_professional_programmer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+D:\Основы Алгоритмизации и Программирование (1-ый курс 2-ой семестр - ЗАЩИТА!)\13th_lab_BOAAP\how_to_become_a_professional_programmer\Source.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  how_to_become_a_professional_programmer.vcxproj -> D:\Основы Алгоритмизации и Программирование (1-ый курс 2-ой семестр - ЗАЩИТА!)\13th_lab_BOAAP\Debug\13th_lab_BOAAP.exe

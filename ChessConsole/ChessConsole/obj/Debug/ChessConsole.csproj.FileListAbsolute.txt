@@ -1,0 +1,6 @@
+C:\Users\battl\Downloads\ConsoleChess-master\ConsoleChess-master\ChessConsole\bin\Debug\ChessConsole.exe.config
+C:\Users\battl\Downloads\ConsoleChess-master\ConsoleChess-master\ChessConsole\bin\Debug\ChessConsole.exe
+C:\Users\battl\Downloads\ConsoleChess-master\ConsoleChess-master\ChessConsole\bin\Debug\ChessConsole.pdb
+C:\Users\battl\Downloads\ConsoleChess-master\ConsoleChess-master\ChessConsole\obj\Debug\ChessConsole.csprojAssemblyReference.cache
+C:\Users\battl\Downloads\ConsoleChess-master\ConsoleChess-master\ChessConsole\obj\Debug\ChessConsole.exe
+C:\Users\battl\Downloads\ConsoleChess-master\ConsoleChess-master\ChessConsole\obj\Debug\ChessConsole.pdb
